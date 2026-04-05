@@ -1,7 +1,6 @@
 
 include:
   - board: nice_nano_v2
-  snippet: nrf52840-nosd
     shield: keyball39_left
   - board: nice_nano_v2
     snippet: nrf52840-nosd
