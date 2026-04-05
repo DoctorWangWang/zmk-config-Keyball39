@@ -1,9 +1,12 @@
 
 include:
   - board: nice_nano_v2
+  snippet: nrf52840-nosd
     shield: keyball39_left
   - board: nice_nano_v2
+    snippet: nrf52840-nosd
     shield: keyball39_right
     snippet: studio-rpc-usb-uart
   - board: nice_nano_v2
+    snippet: nrf52840-nosd
     shield: settings_reset
